@@ -43,7 +43,7 @@ a:hover{
 #playbackArea{
 	border: 1px solid #e8e8e8;
 	width: 960px;
-	height: 500px;
+	height: 700px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #efefef;
@@ -87,7 +87,7 @@ a:hover{
 
 .chatcontainer{
 	width:400px;
-	height:380px;
+	height:580px;
 	position: absolute;
 	right: 10px;
 	top: 60px;	
